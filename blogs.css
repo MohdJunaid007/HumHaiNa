@@ -1,0 +1,52 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(34, 33, 33) !important; 
+    color: whitesmoke;
+
+ }
+.navs:hover{
+color: rgb(34, 212, 34) !important;
+}
+.Links:hover{
+    color: aqua !important;
+}
+footer{
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(40, 42, 49);
+    color: white;
+  
+    text-align: center;
+
+    width: 100%;
+    height: 2.5rem;
+}
+.eventImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    margin: 10px 10px 10px 10px ;
+    padding-top: 10px;
+}
+.eventimg{
+    margin: 10px 10px;
+}
+/* .eventimg:hover{
+    width: 16rem;
+} */
+.eventHeading{
+    color: antiquewhite !important;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
